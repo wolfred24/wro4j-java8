@@ -11,6 +11,11 @@ wro4j is a free and Open Source Java project which will help you to [easily impr
 
 In order to get started with wro4j, you have to follow only 3 simple steps.
 
+## Compile the project
+'''
+mvn clean install -DskipTests
+''' 
+
 ## Step 1: Add WroFilter to web.xml
 ```xml
 <filter>

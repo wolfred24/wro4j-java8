@@ -1,0 +1,3 @@
+[submodule "wro4j-runner"]
+    path = wro4j-runner
+    url = https://github.com/wolfred24/wro4j-runner
